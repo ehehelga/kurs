@@ -1,0 +1,5 @@
+﻿  курсовая.cpp
+C:\Users\Helga\Desktop\курсовая\курсовая\курсовая\курсовая.cpp(696,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Helga\Desktop\курсовая\курсовая\курсовая\курсовая.cpp(707,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Helga\Desktop\курсовая\курсовая\курсовая\курсовая.cpp(718,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  курсовая.vcxproj -> C:\Users\Helga\Desktop\курсовая\курсовая\x64\Debug\курсовая.exe
